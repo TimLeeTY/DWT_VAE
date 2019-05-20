@@ -103,17 +103,26 @@ An outline of the rest of the dissertation is as follows:
 -   Chapter 6 and 7 give an overall conclusion of the whole project and
     suggests possible areas for future work.
 
-References {#references .unnumbered}
-=
+# References
 
 Carleo, Giuseppe, and Matthias Troyer. 2017. “Solving the Quantum Many-Body Problem with Artificial Neural Networks.” Science 355 (6325): 602–6.
+
 Dunjko, Vedran, and Hans J Briegel. 2018. “Machine Learning & Artificial Intelligence in the Quantum Domain: A Review of Recent Progress.” Reports on Progress in Physics 81 (7): 074001.
+
 Guest, Dan, Kyle Cranmer, and Daniel Whiteson. 2018. “Deep Learning and Its Application to Lhc Physics.” Annual Review of Nuclear and Particle Science 68: 161–81.
+
 Kim, Edward J, and Robert J Brunner. 2016. “Star-Galaxy Classification Using Deep Convolutional Neural Networks.” Monthly Notices of the Royal Astronomical Society, stw2672.
+
 Kingma, Diederik P, and Max Welling. 2013. “Auto-Encoding Variational Bayes.” arXiv Preprint arXiv:1312.6114.
+
 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E Hinton. 2012. “Imagenet Classification with Deep Convolutional Neural Networks.” In Advances in Neural Information Processing Systems, 1097–1105.
+
 Pourrahmani, Milad, Hooshang Nayyeri, and Asantha Cooray. 2018. “LensFlow: A Convolutional Neural Network in Search of Strong Gravitational Lenses.” The Astrophysical Journal 856 (1): 68.
+
 Silver, David, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, et al. 2017. “Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.” arXiv Preprint arXiv:1712.01815.
+
 Taswell, Carl. 2000. “The What, How, and Why of Wavelet Shrinkage Denoising.” Computing in Science & Engineering 2 (3): 12–19.
+
 Taubman, David S, and Michael W Marcellin. 2002. “JPEG2000: Standard for Interactive Imaging.” Proceedings of the IEEE 90 (8): 1336–57.
+
 Torlai, Giacomo, Guglielmo Mazzola, Juan Carrasquilla, Matthias Troyer, Roger Melko, and Giuseppe Carleo. 2018. “Neural-Network Quantum State Tomogra- phy.” Nature Physics 14 (5): 447–50.=========
