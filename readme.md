@@ -33,7 +33,9 @@ Of these techniques, variational autoencoders (VAEs) have shown to be reliable a
 The training of neural networks can be aided by various preprocessing methods. There exist many ways of abstracting better features from raw data, ranging from Fourier transforms to statistical methods. This project will focus on the use of the discrete wavelet transform (DWT) which has already seen applications in data compression (Taubman and Marcellin 2002) and denoising (Taswell 2000). As such the DWT possesses similar properties to the variational autoencoder. We investigate the use of a signal’s discrete wavelet decompositions as features to train a variational encoder, which also conveniently allows us to simplify the neural networks by treating different levels of wavelet coefficients separately. This project attempts to build an unsupervised model for feature extraction using the variational autoencoder when applied to audio from the NSynth dataset. Three approaches are contrasted:
 
 • The audio signal is fed directly into the variational autoencoder without preprocessing,
+
 • the audio signal is first preprocessed using the discrete Fourier transform,
+
 • the audio signal is first preprocessed using the discrete wavelet transform
 
 with a modified VAE structure.
