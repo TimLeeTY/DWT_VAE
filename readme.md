@@ -125,4 +125,4 @@ Taswell, Carl. 2000. “The What, How, and Why of Wavelet Shrinkage Denoising.�
 
 Taubman, David S, and Michael W Marcellin. 2002. “JPEG2000: Standard for Interactive Imaging.” Proceedings of the IEEE 90 (8): 1336–57.
 
-Torlai, Giacomo, Guglielmo Mazzola, Juan Carrasquilla, Matthias Troyer, Roger Melko, and Giuseppe Carleo. 2018. “Neural-Network Quantum State Tomogra- phy.” Nature Physics 14 (5): 447–50.=========
+Torlai, Giacomo, Guglielmo Mazzola, Juan Carrasquilla, Matthias Troyer, Roger Melko, and Giuseppe Carleo. 2018. “Neural-Network Quantum State Tomogra- phy.” Nature Physics 14 (5): 447–50.
